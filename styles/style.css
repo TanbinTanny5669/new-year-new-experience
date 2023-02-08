@@ -28,19 +28,57 @@ button {
 /* main */
 .main-body {
     display: flex;
-    margin-top: 180px;
+    margin-top: 100px;
     align-items: center;
 }
 
 .main-image {
-    margin-left: 200px;
+    margin-left: 150px;
 }
 
 .failure {
-    margin-bottom: 400px;
-    margin-left: 50px;
+    margin-bottom: 300px;
+    margin-top: 200px;
+
+    margin-left: 40px;
 }
 
 .new {
     font-size: 50px;
+}
+
+.lists {
+    font-size: 30px;
+}
+
+.section-2 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 50px;
+}
+
+.icons {
+    margin-left: 200px;
+
+    display: flex;
+}
+
+.web {
+    margin-left: 80px;
+
+}
+
+.java {
+    margin-left: 90px;
+
+}
+
+.ecom {
+    margin-left: 90px;
+
+}
+
+.smoke {
+    margin-left: 90px;
+
 }
