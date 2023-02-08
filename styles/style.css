@@ -1,0 +1,26 @@
+.header {
+
+    background-image: url('../images/banner/banner1.png');
+    /* background-position: center; */
+    height: 70vh;
+    background-size: cover;
+    color: black;
+    text-align: end;
+    padding-top: 150px;
+    font-size: 20px;
+
+}
+
+.text {
+    margin-right: 150px;
+}
+
+button {
+    border: 0;
+    background-color: #F15B22;
+    padding: 17px;
+    border-radius: 10px;
+    color: white;
+    font-size: medium;
+
+}
