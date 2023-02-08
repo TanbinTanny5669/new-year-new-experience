@@ -86,7 +86,7 @@ button {
 .gradient {
 
     margin-left: 100px;
-    margin-top: 250px;
+    margin-top: 100px;
     width: 1100px;
     height: 250px;
     background-image: linear-gradient(to right, rgb(187, 66, 66), orange);
@@ -98,5 +98,11 @@ button {
 
 .mind {
     font-size: 50px;
-    margin-left: 20px 30px;
+    margin-left: 30px;
+    padding-top: 10px;
+
+}
+
+.call-btn {
+    margin-left: 30px;
 }
